@@ -1,0 +1,6 @@
+C:\Users\pasil\source\repos\TutorialNCapas\EN\bin\Debug\EN.dll
+C:\Users\pasil\source\repos\TutorialNCapas\EN\bin\Debug\EN.pdb
+C:\Users\pasil\source\repos\TutorialNCapas\EN\obj\Debug\EN.csprojAssemblyReference.cache
+C:\Users\pasil\source\repos\TutorialNCapas\EN\obj\Debug\EN.csproj.CoreCompileInputs.cache
+C:\Users\pasil\source\repos\TutorialNCapas\EN\obj\Debug\EN.dll
+C:\Users\pasil\source\repos\TutorialNCapas\EN\obj\Debug\EN.pdb

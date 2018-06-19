@@ -1,0 +1,11 @@
+C:\Users\pasil\source\repos\TutorialNCapas\PL\bin\Debug\PL.dll
+C:\Users\pasil\source\repos\TutorialNCapas\PL\bin\Debug\PL.pdb
+C:\Users\pasil\source\repos\TutorialNCapas\PL\bin\Debug\DAL.dll
+C:\Users\pasil\source\repos\TutorialNCapas\PL\bin\Debug\EN.dll
+C:\Users\pasil\source\repos\TutorialNCapas\PL\bin\Debug\DAL.pdb
+C:\Users\pasil\source\repos\TutorialNCapas\PL\bin\Debug\EN.pdb
+C:\Users\pasil\source\repos\TutorialNCapas\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\pasil\source\repos\TutorialNCapas\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\pasil\source\repos\TutorialNCapas\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\pasil\source\repos\TutorialNCapas\PL\obj\Debug\PL.dll
+C:\Users\pasil\source\repos\TutorialNCapas\PL\obj\Debug\PL.pdb
